@@ -1,0 +1,11 @@
+
+
+eefcflash is a flash programming utility for Atmel's SAM family of
+EEFC flash-based ARM microcontrollers. The motivation behind eefcflash is to
+create a simple, easy-to-use, open source utility to replace Atmel's
+SAM-BA software; also because it is easier to write new code from
+scratch than to debug other people's C++ code.
+
+Note: this should work on all of the atmel sam cortex M3, M4, and M7
+devices. but not the M0 devices.
+
